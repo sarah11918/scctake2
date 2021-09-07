@@ -6,7 +6,7 @@ sub_heading: 150 musicians perform the Canadian premiere of Yoon Jae Lee's orche
 date: 2019-04-14
 
 ---
-![](../images/20190414_IMG_3145_fullstage.jpg)
+![](../images/20190414_IMG_3145_fullstage.jpg "Panoramic shot of the entire massed choir and orchestra on stage during concert")
 
 75 instrumentalists and 75 choristers combined forces on the weekend for a spectacular performance!
 

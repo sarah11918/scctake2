@@ -7,7 +7,7 @@ const Contact = () => {
     <Layout>
       <SEO title="Contact" />
       <h1>Contact Page</h1>
-      <p>You can find Sarah on Twitter <a href="https://www.twitter.com/sarah11918">@sarah11918</a>.</p>
+      <p>Please email the choir at sumchoir@gmail.com or find us on <a href="https://www.facebook.com/SummersideChoir/">Facebook</a> and <a href="https://www.twitter.com/summersidechoir">Twitter</a>.</p>
     </Layout>
   )
 }

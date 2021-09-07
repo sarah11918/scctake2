@@ -2,7 +2,7 @@
 title: 'Don''t think of it as "losing a summer" . . . '
 date: 2019-09-02 
 ---
-![](../images/20190108_204700.jpg)
+![](../images/20190108_204700.jpg "Choir members in rehearsal, seated in chairs going through their music")
 
 . . . but "gaining a new term of choir!"
 

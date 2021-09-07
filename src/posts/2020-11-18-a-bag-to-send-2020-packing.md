@@ -4,7 +4,7 @@ title: A bag to send 2020 packing??
 date: 2020-11-18 
 
 ---
-![](../images/scc-fb-cover-totesfundraiser.png)
+![](../images/scc-fb-cover-totesfundraiser.png "PEI fundraiser tote bags")
 
 We have many things to be thankful for on PEI, one of which is that some members of our choir can continue to meet, with masks and distancing, for some much-needed social singing. 
 
@@ -15,5 +15,3 @@ You can show your support for the Summerside Community Choir with our PEI-themed
 We have four designs available and bags are $10 each and all proceeds will help us keep going while our live performances are on hold.
 
 You can arrange a purchase through your friendly, neighbourhood choir member or email us at sumchoir@gmail.com for payment and pick up details. If you're in the Summerside area, we can probably arrange delivery!  
-
-<!-- ![](/images/peibag.jpg) -->
