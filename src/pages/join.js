@@ -9,7 +9,7 @@ const Join = () => {
       <SEO title="Join" />
       <h1>Join Summerside Community Choir!</h1>
       <h3 style={{fontStyle: "italic", paddingLeft: "3rem"}}>COVID-19 in 2021:</h3>
-      <p style={{fontStyle: "italic", paddingLeft: "3rem", paddingRight: "3em"}}>We are planning to resume in-person rehearsals for the Fall 2021 term in September, subject to public health recommendations, and welcome new members to sing with us. We will have more information prior to the start of the term.</p>
+      <p style={{fontStyle: "italic", paddingLeft: "3rem", paddingRight: "3em"}}>We are planning for the possibility of resuming in-person rehearsals in January 2022, subject to public health recommendations, and welcome new members to sing with us. We will have more information prior to the start of the term.</p>
      
       <p>We welcome new members for the first three weeks of rehearsals at the beginning of each term in September and January. There is no formal audition process for new members. Those who wish to join as a new singer can simply show up to the first rehearsal, at which point music will be distributed to all singers and you will choose your voice part (Soprano, 2nd Soprano, Alto, Tenor, Baritone, Bass). You are welcome to contact us ahead of time with questions, and we encourage a note just to let us know you might be coming so you’ll get all the same pre-term prep info and notifications as our registered members, but it’s not required.</p>
 
