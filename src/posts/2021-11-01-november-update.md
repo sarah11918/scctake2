@@ -1,6 +1,8 @@
 ---
+
 title: November update
 date: 2021-11-01
+
 ---
 # No news is... no news
 
