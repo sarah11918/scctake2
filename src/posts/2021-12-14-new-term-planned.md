@@ -1,6 +1,6 @@
 ---
 
-title: November update
+title: New term planned!
 date: 2021-12-14
 
 ---
