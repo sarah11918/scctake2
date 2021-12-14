@@ -5,7 +5,7 @@ const Error = () => {
   return (
     <Layout>
       <h1>404 not found</h1>
-      <p>Sarah is exhausted.</p>
+      <p>Sorry, we hit a wrong note there! That content may have moved or no longer exists.</p>
     </Layout>
   )
 }
