@@ -6,7 +6,7 @@ date: 2021-11-01
 ---
 
 
-![music hoodie](../images/musichoodie.png "music hoodie")
+![music hoodie](../images/musichoodie.png "Keeping musically warm")
 
 No news is... no news.
 
