@@ -4,9 +4,11 @@ title: November update
 date: 2021-11-01
 
 ---
-# No news is... no news
 
-![music hoodie](../images/musichoodie.png "music hoodie")
+
+![music hoodie](../images/musichoodie.png "Keeping musically warm")
+
+No news is... no news.
 
 Although the executive has still been doing executive-y things behind the scenes (there ALWAYS seem to be emails to answer!), we are still in a holding pattern regarding in-person choir rehearsals.
 
