@@ -6,7 +6,7 @@ date: 2021-12-14
 ---
 # New Term planned!
 
-![](../images/newseasonstarting.png "New Season Starting banner - January 11, 2022")
+![New Season Starting banner - January 11, 2022](../images/newseasonstarting.png)
 
 It's yet another Tuesday we haven't been making music, but... there's a plan!
 
